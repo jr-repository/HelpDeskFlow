@@ -1,0 +1,20 @@
+[
+  {
+    "EntityType": "Ticket",
+    "EntityId": "3c149f20-8ae5-43d9-981d-7ce4767f7d80",
+    "Action": "Created",
+    "Description": "Ticket TCK-20260505061454 was created.",
+    "Id": "1bfca1d6-f374-472f-974e-5f1eb3e45305",
+    "CreatedAt": "2026-05-05T06:14:55.026271Z",
+    "UpdatedAt": "2026-05-05T06:14:55.0262712Z"
+  },
+  {
+    "EntityType": "Ticket",
+    "EntityId": "3c149f20-8ae5-43d9-981d-7ce4767f7d80",
+    "Action": "StatusChanged",
+    "Description": "Ticket TCK-20260505061454 status changed to In Progress.",
+    "Id": "a5648676-36b8-4301-b185-6adf9cfd3756",
+    "CreatedAt": "2026-05-05T06:15:05.4937952Z",
+    "UpdatedAt": "2026-05-05T06:15:05.4937955Z"
+  }
+]

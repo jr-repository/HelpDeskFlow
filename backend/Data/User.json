@@ -1,0 +1,12 @@
+[
+  {
+    "FullName": "Alex Morgan",
+    "Email": "alex.morgan@helpdeskflow.test",
+    "Role": "Agent",
+    "DepartmentId": "f00539f4-2649-4062-90c9-cef79f22457e",
+    "IsActive": true,
+    "Id": "58c8f50e-80c2-42cf-af5d-bcd1c14644ec",
+    "CreatedAt": "2026-05-05T06:14:51.3604064Z",
+    "UpdatedAt": "2026-05-05T06:14:51.3604067Z"
+  }
+]

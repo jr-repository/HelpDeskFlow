@@ -1,0 +1,16 @@
+[
+  {
+    "TicketNumber": "TCK-20260505061454",
+    "Subject": "Unable to access company dashboard",
+    "Description": "The user receives an access error when opening the dashboard.",
+    "Priority": "High",
+    "Status": "In Progress",
+    "DepartmentId": "f00539f4-2649-4062-90c9-cef79f22457e",
+    "RequesterId": "58c8f50e-80c2-42cf-af5d-bcd1c14644ec",
+    "AssignedAgentId": null,
+    "ResolvedAt": null,
+    "Id": "3c149f20-8ae5-43d9-981d-7ce4767f7d80",
+    "CreatedAt": "2026-05-05T06:14:55.004199Z",
+    "UpdatedAt": "2026-05-05T06:15:05.489584Z"
+  }
+]

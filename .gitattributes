@@ -1,0 +1,6 @@
+frontend/src/**/*.tsx linguist-detectable=true
+frontend/src/**/*.ts linguist-detectable=true
+frontend/src/**/*.css linguist-detectable=true
+frontend/index.html linguist-detectable=true
+frontend/package-lock.json linguist-generated=true
+backend/Data/*.json linguist-generated=true
